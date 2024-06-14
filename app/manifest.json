@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "BlogSeba - You will find all the articles you need here.",
+  "short_name": "BlogSeba",
+  "description": "Here you will find all the articles you need which you can access for free. You can earn money by sharing your articles with everyone by becoming a contributor to this website.",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
@@ -90,10 +90,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
+      "name": "Quran Recitation: Discover the Beauty and Spirituality of the Holy Quran",
+      "short_name": "Quran Recitation",
+      "description": "Indulge in the serene recitation of the Quran, a journey of spirituality and reflection. Listen here for tranquility.",
+      "url": "/p/quran-recitation.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -102,10 +102,10 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
+      "name": "Free Blogger SVG UI Icon: Enhance Your Website with SEO-Friendly Graphics",
+      "short_name": "SVG Icons",
+      "description": "Enhance your site with a free Blogger SVG UI icon. Perfect for SEO-friendly design, easy to integrate and visually appealing.",
+      "url": "/p/svg-icons.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
