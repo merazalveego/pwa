@@ -28,7 +28,7 @@ const APP_CONFIG = {
     name: 'fineshop-pwa-app'
   },
   github: {
-    username: 'AnaroulHasan',
+    username: 'merazalvee',
     repository: 'blogger-pwa',
     branch: 'main',
     /**
