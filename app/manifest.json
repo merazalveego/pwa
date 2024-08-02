@@ -90,10 +90,21 @@
   ],
   "shortcuts": [
     {
-      "name": "Quran Recitation: Discover the Beauty and Spirituality of the Holy Quran",
-      "short_name": "Quran Recitation",
-      "description": "Indulge in the serene recitation of the Quran, a journey of spirituality and reflection. Listen here for tranquility.",
-      "url": "/p/quran-recitation.html?utm_source=homescreen",
+      "name": "What is BlogSeba: Our Serices and What Serices we Provide to you",
+      "short_name": "What is BlogSeba",
+      "description": "BlogSeba is an online platform designed to ease you into the world of blogging. Our mission is to help bloggers succeed in their blogging journey. Here we provide some special services that will help you to make your blog more advanced and professional..",
+      "url": "/p/what-is-blogseba.html?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },{
+      "name": "Typography Uptodown Theme: Captivating Design and User Experience",
+      "short_name": "Typography Uptodown Theme",
+      "description": "Make your blog attractive and professional with the Blogger Uptodown Theme. Improve user experience and keep readers engaged. Learn more now.",
+      "url": "/2024/07/Typography.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -102,10 +113,10 @@
       ]
     },
     {
-      "name": "Free Blogger SVG UI Icon: Enhance Your Website with SEO-Friendly Graphics",
-      "short_name": "SVG Icons",
-      "description": "Enhance your site with a free Blogger SVG UI icon. Perfect for SEO-friendly design, easy to integrate and visually appealing.",
-      "url": "/p/svg-icons.html?utm_source=homescreen",
+      "name": "Buy Uptodown Theme: Create a beautiful blog using the theme",
+      "short_name": "Buy Uptodown Theme",
+      "description": "Buy our theme at very low price and create a beautiful blog website with Blogger and earn very easily.",
+      "url": "/p/buy.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
