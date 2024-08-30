@@ -5,7 +5,7 @@
   "description": "On our blogging website, you'll find informative and engaging posts in Bengali on a variety of topics. We regularly post about technology, daily life tips, educational content, entertainment, and much more. Our goal is to deliver valuable information to our readers in a simple and straightforward language. Stay with us and enjoy new and exciting content regularly.",
   "dir": "auto",
   "lang": "bn-BD",
-  "orientation": "any",
+  "orientation": "portrait",
   "start_url": "/?utm_source=homescreen",
   "scope": "/",
   "display": "standalone",
