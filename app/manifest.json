@@ -4,7 +4,7 @@
   "short_name": "BlogSeba",
   "description": "On our blogging website, you'll find informative and engaging posts in Bengali on a variety of topics. We regularly post about technology, daily life tips, educational content, entertainment, and much more. Our goal is to deliver valuable information to our readers in a simple and straightforward language. Stay with us and enjoy new and exciting content regularly.",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "bn-BD",
   "orientation": "any",
   "start_url": "/?utm_source=homescreen",
   "scope": "/",
